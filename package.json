@@ -1,0 +1,19 @@
+{
+  "name": "MemoryGame",
+  "version": "0.0.1",
+  "description": "Memory Game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "Venus Jain",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "body-parser": "1.13.0",
+    "mocha": "",
+    "chai": "1.10.0"
+  }
+}

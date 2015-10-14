@@ -1,0 +1,30 @@
+.button{
+	border: solid 1px #8e44ad; 
+    border-radius: 10px;
+    width: 50px;
+    height: 40px;
+    padding:5px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.button.orange {
+  background: #FF7F00;
+}
+
+.button.yellow {
+  background: #F6E57A;
+}
+
+.button.purple {
+  background: #DB90FB;
+}
+
+.button.turquoise {
+  background: #1abc9c;
+}
+
+.button.red {
+  background: #e74c3c;
+}
