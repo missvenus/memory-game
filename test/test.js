@@ -1,7 +1,7 @@
 var assert = require("chai").assert;
 var http   = require("http");
 var server = require("../index");
-var host = "http://localhost:4041"
+var host = "http://localhost:5000"
 var cheerio = require('cheerio');
 var $;   
 
