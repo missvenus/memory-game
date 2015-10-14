@@ -15,7 +15,7 @@
     "body-parser": "1.13.0",
     "mocha": "",
     "chai": "1.10.0",
-    "cherrio":""
+    "cheerio":""
 
   }
 }
